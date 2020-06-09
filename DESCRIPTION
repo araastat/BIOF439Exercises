@@ -1,0 +1,22 @@
+Package: BIOF439Exercises
+Type: Package
+Title: Exercises for BIOF 439 (FAES)
+Version: 0.1.0
+Author@R: 
+    person("Abhijit","Dasgupta", email = "adasgupta@araastat.com", role = c('aut','cre'))
+Maintainer: Abhijit Dasgupta <adasgupta@araastat.com>
+Description: This package puts together `learnr` tutorials and exercises 
+    for the FAES/NIH class BIOF439 (Data Visualization using R)
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Imports: 
+    rappdirs,
+    learnr,
+    shiny,
+    ggplot2
+Suggests: 
+    dplyr,
+    tidyr,
+    purrr,
+    readr
