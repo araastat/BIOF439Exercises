@@ -20,3 +20,5 @@ Suggests:
     tidyr,
     purrr,
     readr
+URL: https://github.com/araastat/BIOF439Exercises
+BugReports: https://github.com/araastat/BIOF439Exercises/issues
